@@ -18,6 +18,7 @@ function crazy() {
   }
 }
 
+function sayMyName() {
   // fix the code in here:
   function sayMy() {
     console.log(name);
